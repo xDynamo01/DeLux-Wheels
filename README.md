@@ -1,4 +1,5 @@
 # DeLux-Wheels
+https://imgur.com/a/PDX2hBf
 Projeto de website com o intuito de exposição de carros.
 Um carrossel de carros de luxo interativo, apresentando informações sobre marcas renomadas como Porsche, Ferrari e Lamborghini. Este projeto demonstra habilidades em HTML, CSS e JavaScript para criar uma experiência de usuário dinâmica e visualmente atraente.
 
